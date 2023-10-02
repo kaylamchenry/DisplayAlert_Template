@@ -1,0 +1,27 @@
+.logo {
+    margin-left: 20px;
+  
+}
+
+body {
+    background-color: aquamarine;
+    margin: 0;
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: between; /* navbar to the right */
+    padding-bottom: 40px;
+    align-items:center;
+   
+}
+
+li {
+    list-style-type: none; /* Remove bullets */
+    margin-right: 100px;
+}
